@@ -1,4 +1,4 @@
-TCP Port Scanner
+                                                TCP Port Scanner
 
    This is a simple TCP port scanner implemented in Python using the socket, sys, threading, datetime, and os modules.
 When the program is run, it first clears the console using the clear() function. Then it prints an ASCII art title for
