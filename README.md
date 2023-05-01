@@ -7,7 +7,7 @@ the scanner using the art module.
 The user is then prompted to enter a domain name or IP address to scan. The program attempts to resolve the domain 
 name to an IP address using the gethostbyname() function, and exits with an error message if the domain name cannot be 
 resolved
-The program then presents the user with several options for scanning types - normal ports (1-1024), all ports (1-65535),
+The program then presents the user with several options for scanning types-normal ports (1-1024), all ports (1-65535),
 or custom range of ports. The user is prompted to enter the desired option, and if they choose the custom range, they are 
 prompted to enter the starting and ending port numbers.
  
